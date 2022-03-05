@@ -2,6 +2,8 @@
 
 Sample using GraphQL implemented in .NET Core by using dotnet-graphql and identityserver4, background workers, real-time metrics, monitoring, logging and more
 
+[I've written a short Medium post for this repository](https://medium.com/@robnogales/building-and-consuming-graphql-api-in-asp-net-core-3-1-a636e4a96ce6)
+
 Some of the dependencies are:
 
 - App.Metrics: Real time metrics and monitoring set up with InfluxDb and Grafana.
